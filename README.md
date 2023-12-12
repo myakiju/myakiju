@@ -4,13 +4,9 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/>
 
 ## Sobre mim
-Oi, sou Juliana Myaki, uma pessoa desenvolvedora de software apaixonada por criar soluções inovadoras. Minha jornada na programação começou em 2009. Atualmente, estou focade em aprender React
+Oi, sou Juliana Myaki, uma pessoa desenvolvedora de software apaixonada por criar soluções inovadoras. Minha jornada na programação começou em 2009 como estagiária Java e jå passei por Ruby e Kotlin também.
 
-## Identidade
-Me identifico como uma pessoa não binária, o que significa que não me enquadro nas tradicionais categorias binárias de gênero. Acredito na importância da diversidade e inclusão no mundo da tecnologia, e estou comprometide em criar um ambiente acolhedor para todes.
-
-## Causas Sociais
-Acredito que a tecnologia tem o poder de criar impacto positivo no mundo, e busco contribuir para projetos e iniciativas que promovem a equidade, a diversidade e a inclusão.
+Uso qualquer pronome e acredito na importância de respeitar a diversidade de identidades de gênero. Acredito que a tecnologia tem o poder de criar impacto positivo no mundo, e busco contribuir para projetos e iniciativas que promovem a equidade, a diversidade e a inclusão.
 
 <!--
 ## Linguagens e Ferramentas
