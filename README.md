@@ -15,7 +15,7 @@ Adoto qualquer pronome e defendo a importância do respeito à diversidade de id
 - Docker
 
 ## Contato
-Vamos conversar! Fique à vontade para me encontrar no [LinkedIn]([seu-linkedin](https://www.linkedin.com/in/myakiju/)) ou [Twitter]([seu-twitter](https://twitter.com/_eitajuliana)).
+Vamos conversar! Fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/myakiju/) ou [Twitter](https://twitter.com/_eitajuliana).
 
 ## Código com Amor e Inclusão 💙🌈
 
