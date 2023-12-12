@@ -1,5 +1,8 @@
 # Olá, mundo! 👋
 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myakiju&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/>
+
 ## Sobre mim
 Oi, sou Juliana Myaki, uma pessoa desenvolvedora de software apaixonada por criar soluções inovadoras. Minha jornada na programação começou em 2009. Atualmente, estou focade em aprender React
 
