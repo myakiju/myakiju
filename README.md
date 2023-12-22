@@ -5,7 +5,7 @@
 ## Sobre mim
 Olá, sou Juliana Myaki, uma entusiasta do desenvolvimento de software apaixonada por conceber soluções inovadoras. 
 
-Adoto qualquer pronome e defendo a importância do respeito à diversidade de identidades de gênero. Tenho convicção de que a tecnologia possui o poder de gerar um impacto positivo no mundo, e por isso busco contribuir para projetos e iniciativas que promovam a equidade, diversidade e inclusão.
+Meus pronomes são ela/dela, mas defendo a importância do respeito à diversidade de identidades de gênero. Tenho convicção de que a tecnologia possui o poder de gerar um impacto positivo no mundo e por isso busco contribuir para projetos e iniciativas que promovam a equidade, diversidade e inclusão.
 
 
 ## Linguagens e Ferramentas
