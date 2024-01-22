@@ -1,23 +1,29 @@
 # Olá, mundo! 👋
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myakiju&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/>
+<a href="https://app.daily.dev/myakiju"><img src="https://api.daily.dev/devcards/a542fa2f938d4d9c832b1f3ad27aa082.png?r=veo" width="400" alt="Juliana Myaki's Dev Card"/></a>
+ 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myakiju&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/> -->
 
 ## Sobre mim
-Olá, sou Juliana Myaki, uma entusiasta do desenvolvimento de software apaixonada por conceber soluções inovadoras. 
-
-Meus pronomes são ela/dela, mas defendo a importância do respeito à diversidade de identidades de gênero. Tenho convicção de que a tecnologia possui o poder de gerar um impacto positivo no mundo e por isso busco contribuir para projetos e iniciativas que promovam a equidade, diversidade e inclusão.
+Meu nome é Juliana, fiz uma transição de carreira em 2009 saindo da Educação Física e mergulhando de cabeça no mundo da tecnologia. Desde então, trabalhei nos mais diversos ramos: Consultorias, Seguros, Fintechs. Depois de 1 ano sabático, em 2024 iniciei meu trabalho como mentora na Laboratoria, uma organização de impacto social que empodera mulheres através da Tecnologia. 
 
 
 ## Linguagens e Ferramentas
 - Java
+- Javascript
+- HTML
+- CSS
 - Ruby
 - AWS
 - Docker
 
 ## Contato
-Vamos conversar! Fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/myakiju/) ou [Twitter](https://twitter.com/_eitajuliana).
+Vamos conversar? Fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/myakiju/) 
 
-## Código com Amor e Inclusão 💙🌈
+## ⚡ Fun fact
+Sou cria de programadores. Meus pais se conheceram trabalhando numa estatal nos anos 80, ambos eram programadores COBOL. 
+👩🏻‍💻❤️👨🏻‍💻
+
 
 <!--
 **myakiju/myakiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
