@@ -5,19 +5,21 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myakiju&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/> -->
 
 ## Sobre mim
-Meu nome é Juliana, fiz uma transição de carreira em 2009 saindo da Educação Física e mergulhando de cabeça no mundo da tecnologia. Desde então, trabalhei nos mais diversos ramos: Consultorias, Seguros, Fintechs. Depois de 1 ano sabático, em 2024 iniciei meu trabalho como mentora na Laboratoria, uma organização de impacto social que empodera mulheres através da Tecnologia. 
+Meu nome é Juliana, fiz uma transição de carreira em 2009 saindo da Educação Física e mergulhando de cabeça no mundo da tecnologia. Desde então, trabalhei nos mais diversos ramos: Consultorias, Seguros, Fintechs. Depois de 1 ano sabático pós layoff, em janeiro de 2024 iniciei um novo trabalho como mentora na Laboratoria, uma organização de impacto social que empodera mulheres através da Tecnologia. 
+
 
 
 ## Linguagens e Ferramentas
 - Java
+- Spring
+- Kotlin
 - Javascript
 - HTML
 - CSS
-- Ruby
 - AWS
 - Docker
 
-## Contato
+## 📫 Contato
 Vamos conversar? Fique à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/myakiju/) 
 
 ## ⚡ Fun fact
