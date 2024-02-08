@@ -10,9 +10,14 @@ Meu nome é Juliana, fiz uma transição de carreira em 2009 saindo da Educaçã
 
 ## Linguagens e Ferramentas
 
+Front End
+
 - Javascript
 - HTML
 - CSS
+
+Backend
+
 - Java
 - Spring
 - Kotlin
