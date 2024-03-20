@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-<a href="https://app.daily.dev/myakiju"><img src="https://api.daily.dev/devcards/a542fa2f938d4d9c832b1f3ad27aa082.png?r=veo" width="400" alt="Juliana Myaki's Dev Card"/></a>
+<a href="https://app.daily.dev/myakiju"><img src="https://api.daily.dev/devcards/a542fa2f938d4d9c832b1f3ad27aa082.png?r=veo" width="300" alt="Juliana Myaki's Dev Card"/></a>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myakiju&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myakiju&layout=compact&theme=tokyonight"/> -->
 
